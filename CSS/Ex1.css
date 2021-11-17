@@ -132,6 +132,9 @@
          flex-direction: column;
          height: auto;
       }
+      #contenidores{
+         flex-direction: column;
+      }
       #contenidores > .elemento{
          padding: 5px;
          background-color: #62959c;
